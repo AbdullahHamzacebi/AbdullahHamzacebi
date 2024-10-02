@@ -82,7 +82,7 @@
 <br>
 
 ### FUPICO/GTS-Backend Activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/b5b763d03de7fef75edf5d92e8339512559b207e.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+<img width="100%" src="https://repobeats.axiom.co/api/embed/5b320b024d0c7c8607c66717e94c6e7e69d206d2.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
 [![Forkers repo roster for @AbdullahHamzacebi/GTS-Backend](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=FUPICO&repo=GTS-Backend)](https://github.com/FUPICO/GTS-Backend/network/members)
 
@@ -91,7 +91,7 @@
 <br>
 
 ### 📊 Contribution Stats
-<img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbdullahHamzacebi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Abdullah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbdullahHamzacebi&bg_color=0d1117&color=0080ff&line=407bfe&point=0080ff&hide_border=true" />
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
