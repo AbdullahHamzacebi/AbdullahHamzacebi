@@ -12,6 +12,7 @@
 - 🚀 My Personal Website: **www.AbdullahHamzacebi.com**
 - ⚡ Fun Fact: Code💻 and Music🎵 are the reasons to live.
 
+- [![](https://visitcount.itsvg.in/api?id=AbdullahHamzacebi&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <br>
